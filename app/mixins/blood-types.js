@@ -9,6 +9,8 @@ export default Ember.Mixin.create({
     'B+',
     'B-',
     'O+',
-    'O-'
+    'O-',
+    'Rh+',
+    'Rh-'
   ].map(SelectValues.selectValuesMap)
 });
